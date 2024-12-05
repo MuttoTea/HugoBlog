@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://MuttoTea.github.io/HugoBlog/</loc>
-    <lastmod>2024-12-05T09:32:16+08:00</lastmod>
+    <lastmod>2024-12-05T15:39:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,11 +20,8 @@
                 href="https://MuttoTea.github.io/HugoBlog/"
                 />
   </url><url>
-    <loc>https://MuttoTea.github.io/HugoBlog/p/myfirstblog/</loc>
-    <lastmod>2024-12-05T09:32:16+08:00</lastmod>
-  </url><url>
     <loc>https://MuttoTea.github.io/HugoBlog/post/</loc>
-    <lastmod>2024-12-05T09:32:16+08:00</lastmod>
+    <lastmod>2024-12-05T15:39:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -35,6 +32,12 @@
                 hreflang="zh-cn"
                 href="https://MuttoTea.github.io/HugoBlog/post/"
                 />
+  </url><url>
+    <loc>https://MuttoTea.github.io/HugoBlog/p/testnew/</loc>
+    <lastmod>2024-12-05T15:39:41+08:00</lastmod>
+  </url><url>
+    <loc>https://MuttoTea.github.io/HugoBlog/p/myfirstblog/</loc>
+    <lastmod>2024-12-05T09:32:16+08:00</lastmod>
   </url><url>
     <loc>https://MuttoTea.github.io/HugoBlog/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
